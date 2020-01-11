@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActualNews</string>
+    <string name="app_header"> Great News</string>
+    <string name="logo">Logo - Made by Freepik</string>
+    <string name="search_button">Ara</string>
+    <string name="search_field">Ara...</string>
+    <string name="science">Bilim</string>
+    <string name="sports">Spor</string>
+    <string name="economy">Ekonomi</string>
+    <string name="tech">Teknoloji</string>
+    <string name="life">Hayat</string>
+    <string name="health">Sağlık</string>
+</resources>
